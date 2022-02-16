@@ -11,7 +11,7 @@
     <title><?php echo $a . 'Name'?></title>
 </head>
 <body class='body'>
-<form class='top-content' style='margin-left:3%'  action="index-2.php" method='POST' autocomplete='off' >   <div style='margin-left:25%;'> Name: <input type='text' name='name' required>
+<form class='top-content' style='margin:auto'  action="index-2.php" method='POST' autocomplete='off' >   <div style='margin:auto;'> Name: <input type='text' name='name' required>
      <input type='submit'>
 </div></form>
 </body>
